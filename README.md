@@ -1,6 +1,7 @@
 # my_state_manage
 
-A new Flutter project.
+In this example, we decided to try the three most popular packages 
+for state management in 2022 (Riverpod, Provider, GetIt).
 
 ## Getting Started
 
